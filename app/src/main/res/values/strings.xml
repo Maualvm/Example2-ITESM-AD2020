@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">Example2-ITESM-AD2020</string>
+    <string name="go_back">Go back</string>
+    <string name="im_activity_2">Im Activity 2</string>
+    <string name="button">Button</string>
 </resources>
